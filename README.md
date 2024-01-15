@@ -1,1 +1,2 @@
 # ComputerVisionProject
+This course presents the principles and techniques of computer vision. It will provide the theoretical and practical skills required for automatic analysis and processing of visual data allowing to extract  information about their content. The tools needed for the development of real-world applications based on the presented techniques will also be provided. In particular in the course labs computer vision applications based on the OpenCV library will be developed.
